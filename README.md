@@ -22,25 +22,6 @@ Provided actionable insights to a stakeholder planning to open a kitchen in Bang
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/122404051/235879338-70ed6e1a-f192-4aee-9a0e-32ad1f001d87.gif"
  width="400" ></p>
- 
-##  <img src="https://user-images.githubusercontent.com/122404051/235767211-297f9f4f-d41a-46ec-838f-13ea23817702.gif"  width="48" height="48"> Analysis 
-	
-    o As per the Area-wise distribution of  restaurants, BTM has the highest and Sadashiv Nagar has the least no of restaurants.
-
-    o 1 Sobha has the highest avg price around ₹ 400 while City market has the lowest avg price around ₹ 30 .
-
-    o "Pure Veg Meals By LunchBox" in Shanti Nagar is the most expensive restaurant with avg price around ₹ 800 - 900 while "The Taj Hotel" in City market has the lowest avg price around ₹ 30 .
-
-    o Basavanagudi has the most reviewed restaurant with over 5 lakh+ reviews in total.
-    
-    o North Indian cuisine the most preferred cuisine by the consumers and hence are provided the most
-    
-##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge <br>
-<br>
-<p align="center"><a><img src="https://user-images.githubusercontent.com/122404051/235892949-3f3a82bb-6604-494e-bc9c-546fdb4bbdc0.jpg" width="850" height="40"></a></p>
-
-
-<br>
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Summary
 
@@ -55,7 +36,28 @@ Provided actionable insights to a stakeholder planning to open a kitchen in Bang
     5. In Power Bi, we made some useful KPI's and some user friendly charts.
     
     6. Created a interactive and dynamic dashboard at the end using Power Bi and generated some useful insights.
+
     
+##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge <br>
+<br>
+<p align="center"><a><img src="https://user-images.githubusercontent.com/122404051/235892949-3f3a82bb-6604-494e-bc9c-546fdb4bbdc0.jpg" width="850" height="40"></a></p>
+
+
+<br>
+    
+ 
+##  <img src="https://user-images.githubusercontent.com/122404051/235767211-297f9f4f-d41a-46ec-838f-13ea23817702.gif"  width="48" height="48"> Analysis 
+	
+    o As per the Area-wise distribution of  restaurants, BTM has the highest and Sadashiv Nagar has the least no of restaurants.
+
+    o 1 Sobha has the highest avg price around ₹ 400 while City market has the lowest avg price around ₹ 30 .
+
+    o "Pure Veg Meals By LunchBox" in Shanti Nagar is the most expensive restaurant with avg price around ₹ 800 - 900 while "The Taj Hotel" in City market has the lowest avg price around ₹ 30 .
+
+    o Basavanagudi has the most reviewed restaurant with over 5 lakh+ reviews in total.
+    
+    o North Indian cuisine the most preferred cuisine by the consumers and hence are provided the most
+
 
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Dashboard Screenshot
 
