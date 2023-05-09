@@ -5,10 +5,6 @@ Imported the extracted data into Power Query Editor to clean and transform the d
 Provided actionable insights to a stakeholder planning to open a kitchen in Bangalore, including recommendations on cuisine, location, and pricing based on data analysis
 
 <br>
-<br>
-<p align="center"><a><img src="https://user-images.githubusercontent.com/122404051/235893251-9c6dcfee-8c9c-4f82-838e-b81cffba9dbc.jpg" width="650" height="40"></a></p>
-
-
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> *Folder Structure Guide*
 
