@@ -35,11 +35,11 @@ Provided actionable insights to a stakeholder planning to open a kitchen in Bang
     2. After obtaining the DataFrame we performed some data cleansing operation using Power Querry Editor and obtained two tables.
     	a) Cleaned Table with Restaurant and their links
 	
-    ![maintable](https://github.com/harshp1801/Zomato-Data-Analysis/assets/128036066/aae9879e-6c21-4667-904e-69313151e082.png)
+   ![maintable](https://github.com/harshp1801/Zomato-Data-Analysis/assets/128036066/aae9879e-6c21-4667-904e-69313151e082.png)
     	
 	b) Cleaned Table with Restaurant & Their Info
     
-    ![restaurantandtheirinfo](https://github.com/harshp1801/Zomato-Data-Analysis/assets/128036066/eddfb517-1730-4030-82d6-2b880e3f04e2.png)
+   ![restaurantandtheirinfo](https://github.com/harshp1801/Zomato-Data-Analysis/assets/128036066/eddfb517-1730-4030-82d6-2b880e3f04e2.png)
     
     3. Then, we imported the cleaned tables into MySQL and joined them.
     
