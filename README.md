@@ -22,6 +22,15 @@ Provided actionable insights to a stakeholder planning to open a kitchen in Bang
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Summary
 
     1. Using Selenium And BeautifulSoup libraries of Python we Extracted data present on page and stored it in series and merging them to get DatFrame
+    	a)MainPage Scrapper
+	
+  ![mainscrapper1](https://github.com/harshp1801/Recommender/assets/128036066/e37d3290-b15d-48be-8006-eb22f1c2ac1c.png)
+    
+  ![mainscrapper2](https://github.com/harshp1801/Recommender/assets/128036066/3fb8f688-3eda-40f9-867a-9201eb816636.png)
+    
+    	b)Restaurants info Scrapper
+    
+   ![subscrapper](https://github.com/harshp1801/Recommender/assets/128036066/ce5069e6-103a-4d49-9e11-bed1af538c9c.png)
  
     2. After obtaining the DataFrame we performed some data cleansing operation using Power Querry Editor and obtained two tables.
     
