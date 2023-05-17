@@ -1,4 +1,4 @@
-# <img src=https://user-images.githubusercontent.com/122404051/235878740-0f447969-b786-41de-93ca-a4528a4db470.gif width="48" height="48" >  Zomato's Data Analysis
+# <img src=https://user-images.githubusercontent.com/122404051/235878740-0f447969-b786-41de-93ca-a4528a4db470.gif width="48" height="48" >  Zomato Restaurant Data Dive: Understanding Gastronomic Patterns
 Developed a dashboard to generate data-driven insights by extracting and cleaning information from Zomato's webpage
 Used Python libraries such as Selenium and BeautifulSoup to extract and parse unstructured data from the webpage
 Imported the extracted data into Power Query Editor to clean and transform the data, resulting in two cleaned tables.
